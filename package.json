@@ -1,14 +1,29 @@
 {
   "name": "awesome-api",
   "version": "1.0.1",
-  "description": "",
+  "description": "Lib for AwesomeAPI`s",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raniellyferreira/awesome-api.git"
+  },
+  "keywords": [
+    "cep",
+    "address",
+    "endereco",
+    "ibge",
+    "moedas",
+    "cotacoes"
+  ],
+  "author": "Ranielly Ferreira <eu@raniellyferreira.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raniellyferreira/awesome-api/issues"
+  },
+  "homepage": "https://github.com/raniellyferreira/awesome-api#readme",
   "dependencies": {
     "awesome-cep": "^1.0.2"
   }
