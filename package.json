@@ -1,6 +1,6 @@
 {
   "name": "awesome-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lib for AwesomeAPI`s",
   "main": "index.js",
   "scripts": {
